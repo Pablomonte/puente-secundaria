@@ -72,6 +72,7 @@ Respondé dos preguntas sobre un texto breve usando respuesta completa.
 Resumir es seleccionar lo más importante y decirlo con menos palabras, sin cambiar el sentido.
 
 **Pasos**
+
 1. leo el texto completo
 2. marco la idea principal
 3. elijo dos o tres ideas importantes
@@ -103,6 +104,7 @@ Escribí una respuesta completa a una consigna.
 Hacé un resumen de 2 o 3 oraciones.
 
 **Sección 4. Autoevaluación**
+
 - Puedo encontrar la idea principal.
 - Puedo distinguir ideas importantes de ejemplos.
 - Puedo responder sin copiar de más.

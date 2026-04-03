@@ -71,6 +71,7 @@ Se quieren guardar 24 pelotas en filas iguales, sin que sobre ninguna.
 Algunos números nos permiten decidir rápido si otro número es divisible.
 
 **Reglas**
+
 - Es divisible por 2 si termina en 0, 2, 4, 6 u 8.
 - Es divisible por 5 si termina en 0 o 5.
 - Es divisible por 10 si termina en 0.
@@ -137,6 +138,7 @@ Hay 36 estudiantes y se quieren formar grupos iguales, sin que sobre nadie.
 - ¿Cuáles de esos números son divisores de 36?
 
 **Sección 4. Autoevaluación**
+
 - Puedo reconocer múltiplos.
 - Puedo encontrar divisores.
 - Puedo usar criterios de divisibilidad.

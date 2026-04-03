@@ -10,6 +10,7 @@ Reconocer relaciones de proporcionalidad directa y usarlas para resolver situaci
 Hay situaciones en las que si una cantidad aumenta al doble, la otra también. Eso ocurre en la proporcionalidad directa.
 
 **Ejemplos**
+
 - más kilos, más precio
 - más cuadernos, más hojas
 - más vasos iguales, más jugo necesario
@@ -117,6 +118,7 @@ En una receta para 6 personas se usan 300 g de queso.
 - ¿Cuánto para 3 personas?
 
 **Sección 4. Autoevaluación**
+
 - Puedo reconocer una relación proporcional.
 - Puedo usar doble, triple y mitad.
 - Puedo completar tablas.

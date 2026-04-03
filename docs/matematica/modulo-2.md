@@ -21,6 +21,7 @@ Una buena estrategia de cálculo me ayuda a ________
 
 ## Página 28. Estimo antes de resolver
 **Rutina**
+
 1. miro los números
 2. hago una aproximación
 3. resuelvo
@@ -38,6 +39,7 @@ Si estimé 1.000 y me dio 10.000, ¿qué debería revisar?
 
 ## Página 29. Estrategias de suma y resta
 **Modelos**
+
 - 348 + 199 = 348 + 200 - 1
 - 1.000 - 498 = 1.000 - 500 + 2
 
@@ -107,6 +109,7 @@ Leer bien los datos también es hacer Matemática.
 
 ## Página 33. Mini práctica integradora
 **Sección 1. Cálculo**
+
 - 999 + 248
 - 2.400 - 897
 - 36 x 25
@@ -116,6 +119,7 @@ Leer bien los datos también es hacer Matemática.
 En una campaña solidaria se juntaron 18 cajas con 32 alimentos en cada una. Luego se armaron bolsones de 12 productos. ¿Cuántos bolsones completos pudieron prepararse?
 
 **Sección 3. Autoevaluación**
+
 - Puedo estimar antes de calcular.
 - Puedo elegir una estrategia conveniente.
 - Puedo resolver problemas de más de un paso.

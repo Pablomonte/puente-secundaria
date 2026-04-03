@@ -10,6 +10,7 @@ Reconocer distintas formas de representar una misma cantidad y usarlas con segur
 Una misma cantidad puede escribirse como fracción, como decimal o como número natural, según la situación.
 
 **Ejemplos**
+
 - 1/2 = 0,5
 - 3/4 = 0,75
 - 2 = 2,0
@@ -35,6 +36,7 @@ Una fracción y un decimal pueden representar ________
 Dos fracciones son equivalentes cuando representan la misma cantidad.
 
 **Modelos**
+
 - 1/2 = 2/4
 - 2/3 = 4/6
 - 3/5 = 6/10
@@ -102,6 +104,7 @@ Completá la tabla.
 
 ## Página 44. Fracciones y decimales en la vida diaria
 **Contextos**
+
 - dinero
 - recetas
 - medidas
@@ -152,6 +155,7 @@ En una feria se vendieron 3/4 de una bandeja de brownies por la mañana y 1/4 po
 - ¿Quedó algo sin vender?
 
 **Sección 4. Autoevaluación**
+
 - Puedo reconocer escrituras equivalentes.
 - Puedo comparar fracciones y decimales.
 - Puedo pasar de una forma a otra en casos sencillos.

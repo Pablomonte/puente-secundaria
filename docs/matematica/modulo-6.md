@@ -10,6 +10,7 @@ Reconocer figuras, usar vocabulario geométrico con precisión y construir con i
 En Geometría no alcanza con mirar una figura: también hay que poder describirla con palabras precisas.
 
 **Vocabulario**
+
 - lado
 - vértice
 - ángulo
@@ -31,6 +32,7 @@ Mirá un cuadrilátero y respondé:
 Los cuadriláteros tienen 4 lados, pero no todos son iguales.
 
 **Figuras a trabajar**
+
 - cuadrado
 - rectángulo
 - rombo
@@ -62,12 +64,14 @@ Construí:
 - un cuadrado de 5 cm de lado
 
 **Pasos**
+
 1. trazá un lado
 2. usá la escuadra para marcar ángulos rectos
 3. medí los lados restantes
 4. uní los puntos
 
 **Reflexión**
+
 - ¿Qué instrumento te ayudó a asegurar el ángulo recto?
 - ¿Qué error podría aparecer si no medís bien?
 
@@ -95,6 +99,7 @@ Clasificar no es adivinar: es usar propiedades.
 Algunas figuras son planas y otras tienen volumen.
 
 **Cuerpos a reconocer**
+
 - prisma
 - pirámide
 - cilindro
@@ -133,6 +138,7 @@ Construí o dibujá un rectángulo y marcá:
 - diagonales
 
 **Sección 4. Autoevaluación**
+
 - Puedo usar vocabulario geométrico.
 - Puedo reconocer cuadriláteros.
 - Puedo construir figuras con instrumentos.

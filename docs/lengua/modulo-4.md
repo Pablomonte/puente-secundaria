@@ -10,6 +10,7 @@ Comprender mejor las palabras frecuentes de las consignas escolares, responder c
 En secundaria aparecen palabras que no siempre son difíciles, pero sí muy importantes para entender qué pide una consigna. Si entiendo esas palabras, puedo trabajar con más seguridad.
 
 **Palabras frecuentes**
+
 - tema
 - idea principal
 - ejemplo
@@ -30,6 +31,7 @@ Escribí una oración escolar con dos de esas palabras.
 Muchas veces la dificultad no está en el contenido, sino en no entender bien el verbo de la consigna.
 
 **Verbos frecuentes**
+
 - identificar
 - describir
 - explicar
@@ -92,6 +94,7 @@ Usá expresiones como:
 Antes de entregar una respuesta conviene revisar algo más que la ortografía. También hay que pensar si realmente responde lo que se pidió.
 
 **Lista de revisión**
+
 - ¿Respondí a la consigna?
 - ¿Usé información adecuada?
 - ¿Mi respuesta se entiende?
@@ -113,6 +116,7 @@ Mejorá dos respuestas vagas para volverlas más precisas.
 Escribí una breve justificación y una breve argumentación.
 
 **Sección 4. Autoevaluación**
+
 - Reconozco mejor las palabras de las consignas.
 - Distingo entre explicar, justificar y argumentar.
 - Puedo escribir respuestas más precisas.

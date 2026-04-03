@@ -28,6 +28,7 @@ Antes de medir conviene pensar qué voy a medir y en qué unidad.
 En secundaria aparece seguido la necesidad de pasar de una unidad a otra.
 
 **Recordatorio**
+
 - 1 m = 100 cm
 - 1 kg = 1.000 g
 - 1 l = 1.000 ml
@@ -62,6 +63,7 @@ Escribí siempre la unidad.
 El área mide cuánto espacio cubre una superficie.
 
 **Modelos**
+
 - área del cuadrado = lado x lado
 - área del rectángulo = largo x ancho
 
@@ -90,6 +92,7 @@ Dibujá cómo desarmaste la figura antes de calcular.
 
 ## Página 64. Problemas de medida en contextos reales
 **Situaciones**
+
 - poner cinta alrededor de una cartulina
 - cubrir un piso con baldosas
 - llenar botellas con jugo
@@ -121,6 +124,7 @@ Un patio rectangular mide 8 m por 6 m.
 - ¿Cuántos metros cuadrados ocupa?
 
 **Sección 4. Autoevaluación**
+
 - Puedo elegir unidades adecuadas.
 - Puedo hacer equivalencias.
 - Puedo calcular perímetros.

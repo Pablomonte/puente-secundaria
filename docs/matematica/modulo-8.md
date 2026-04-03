@@ -70,6 +70,7 @@ Hacé una pequeña encuesta en el curso sobre:
 - cantidad de hermanos
 
 **Consigna**
+
 1. armá una tabla
 2. contá frecuencias
 3. representá con un gráfico de barras
@@ -79,12 +80,14 @@ Hacé una pequeña encuesta en el curso sobre:
 Leé un problema, marcá datos, elegí operación y resolvé.
 
 **Sección 2. Cálculo**
+
 - 1.250 - 398
 - 48 x 12
 - 3/4 y 0,5: compará
 - 25% de 80
 
 **Sección 3. Geometría y medida**
+
 - perímetro de un rectángulo
 - área de un cuadrado
 
@@ -93,6 +96,7 @@ Interpretá una tabla o gráfico breve.
 
 ## Página 72. Me preparo para la Matemática de secundaria
 **Autoevaluación final**
+
 - Puedo leer mejor las consignas.
 - Puedo mostrar cómo resolví.
 - Puedo estimar y revisar si un resultado tiene sentido.
@@ -101,6 +105,7 @@ Interpretá una tabla o gráfico breve.
 - Puedo leer tablas y gráficos.
 
 **Cierre escrito**
+
 - Lo que mejor aprendí en Matemática este año fue: ________
 - Lo que quiero seguir practicando antes de empezar secundaria es: ________
 

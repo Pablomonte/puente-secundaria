@@ -10,6 +10,7 @@ Aprender a escribir textos más claros, organizados y adecuados a distintas situ
 En secundaria no solo se escribe para responder preguntas. También se escriben textos para explicar un tema, presentar información y comunicar ideas con claridad.
 
 **Situaciones de escritura**
+
 - explicar un tema de Ciencias
 - presentar información en Sociales
 - escribir una nota o carta formal
@@ -28,6 +29,7 @@ Escribir bien no es escribir difícil. Es escribir para que otro entienda.
 Un texto expositivo sirve para explicar un tema de manera ordenada.
 
 **Partes básicas**
+
 - presentación del tema
 - desarrollo con información importante
 - cierre o conclusión
@@ -46,6 +48,7 @@ Ordená estas partes para formar un texto:
 
 ## Página 81. Escribo un texto expositivo breve
 **Pasos**
+
 1. elijo el tema
 2. anoto ideas importantes
 3. ordeno la información
@@ -76,6 +79,7 @@ Revisá si:
 La carta formal se usa para pedir, informar, proponer o reclamar de manera respetuosa.
 
 **Partes de la carta formal**
+
 - lugar y fecha
 - destinatario
 - saludo inicial
@@ -108,6 +112,7 @@ Escribí una carta formal a una autoridad escolar para:
 - plantear una necesidad del curso
 
 **Recordá incluir**
+
 - un saludo adecuado
 - explicación clara del motivo
 - un pedido o propuesta concreta
@@ -122,6 +127,7 @@ Nos dirigimos a usted para...
 Un texto no se termina cuando se escribe el primer borrador. Revisar es una parte importante del trabajo.
 
 **Qué revisar**
+
 - si el texto responde a la consigna
 - si las ideas están ordenadas
 - si hay repeticiones innecesarias
@@ -176,6 +182,7 @@ Revisá tu propia escritura con esta lista:
 - ¿Hay alguna parte para corregir?
 
 **Sección 4. Autoevaluación**
+
 - Puedo escribir un texto expositivo breve.
 - Puedo organizar mejor mis ideas.
 - Puedo reconocer las partes de una carta formal.

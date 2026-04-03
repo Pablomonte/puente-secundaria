@@ -24,6 +24,7 @@ Estudiar mejor empieza por saber elegir qué información guardar.
 Tomar notas no es escribir palabra por palabra. Es registrar ideas, datos y ejemplos importantes de forma breve y ordenada.
 
 **Sugerencias**
+
 - usar palabras clave
 - anotar fechas, nombres o conceptos importantes
 - separar ideas con guiones o flechas
@@ -43,6 +44,7 @@ Compará tus notas con las de un compañero y respondé:
 Las notas ayudan a recordar. El resumen ayuda a reorganizar la información y decirla con claridad.
 
 **Pasos**
+
 1. reviso mis notas
 2. separo tema e ideas importantes
 3. elimino repeticiones
@@ -62,6 +64,7 @@ Revisá si tu resumen:
 Exponer no es leer rápido lo que escribí. Es comunicar un tema para que otros lo entiendan.
 
 **Estructura básica**
+
 - presentación del tema
 - desarrollo con ideas importantes
 - cierre final
@@ -82,6 +85,7 @@ Una buena exposición ayuda a que otros aprendan.
 En una exposición oral también importa cómo hablamos: el tono, el orden, las pausas y el uso de apoyos visuales.
 
 **Para tener en cuenta**
+
 - hablar de manera clara
 - no mirar solo la hoja
 - usar palabras precisas
@@ -114,6 +118,7 @@ Prepará oralmente una mini exposición de un minuto usando:
 - un cierre
 
 **Sección 4. Autoevaluación**
+
 - Puedo distinguir qué información es importante.
 - Puedo tomar notas breves.
 - Puedo escribir un resumen a partir de notas.

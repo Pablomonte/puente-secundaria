@@ -24,6 +24,7 @@ En Ciencias, observar y leer ayudan a pensar mejor.
 Registrar no es copiar todo. Es anotar datos, cambios, relaciones o resultados que ayudan a comprender un fenómeno.
 
 **Qué puedo registrar**
+
 - una observación
 - una medida
 - un cambio
@@ -64,6 +65,7 @@ Respondé:
 En Ciencias no alcanza con decir “pasó esto”. Conviene usar palabras más precisas y explicar relaciones.
 
 **Ejemplos**
+
 - en lugar de “cambió”, escribir “aumentó”, “disminuyó”, “se derritió”, “se mezcló”
 - en lugar de “está raro”, escribir “se observa un cambio de color”, “varió la temperatura”, “apareció condensación”
 
@@ -82,6 +84,7 @@ Explicá con precisión una observación hecha en clase.
 La conclusión no repite todo. Dice qué aprendí, qué relación encontré o qué puedo afirmar a partir de lo observado o leído.
 
 **Para empezar una conclusión**
+
 - pude observar que...
 - a partir de los datos, se puede decir que...
 - esto muestra que...
@@ -112,6 +115,7 @@ Escribí una explicación corta usando vocabulario preciso.
 Redactá una conclusión breve.
 
 **Sección 5. Autoevaluación**
+
 - Puedo observar y registrar mejor.
 - Puedo organizar datos en una tabla simple.
 - Puedo explicar con palabras más precisas.

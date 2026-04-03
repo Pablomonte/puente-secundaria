@@ -16,6 +16,7 @@ Problema: En una biblioteca hay 248 libros de cuentos y 136 de ciencias. ¿Cuán
 - Respuesta B: 248 - 136 = 112.
 
 **Consignas**
+
 - ¿Cuál respuesta entendió mejor la pregunta?
 - ¿Qué palabra del problema ayudaba a elegir la operación?
 
@@ -24,6 +25,7 @@ Cuando leo un problema, primero tengo que descubrir: ________
 
 ## Página 22. Verbos que aparecen en Matemática
 **Verbos frecuentes**
+
 - calcular
 - resolver
 - comparar
@@ -51,6 +53,7 @@ Leé y escribí qué te pide hacer cada consigna.
 
 ## Página 23. Busco los datos y la pregunta
 **Rutina**
+
 1. subrayo los datos
 2. encierro la pregunta
 3. tacho lo que no sirve
@@ -60,6 +63,7 @@ Leé y escribí qué te pide hacer cada consigna.
 En una feria escolar se vendieron 125 empanadas a la mañana y 148 a la tarde. Cada bandeja tiene 7 empanadas. ¿Cuántas bandejas completas se necesitaron en total?
 
 **Completar**
+
 - datos: ________
 - pregunta: ________
 - ¿alcanza con una sola cuenta? sí / no
@@ -69,6 +73,7 @@ En una feria escolar se vendieron 125 empanadas a la mañana y 148 a la tarde. C
 En un club hay 84 pelotas, 12 redes nuevas y 6 profesoras. Si las pelotas se guardan en cajas de 8, ¿cuántas cajas completas se llenan?
 
 **Consigna**
+
 - marcá qué dato no se necesita
 - explicá por qué
 
@@ -92,6 +97,7 @@ Para cada situación, escribir:
 - por qué
 
 **Situaciones**
+
 - Una escuela compra 6 cajas con 24 cuadernos cada una.
 - Un terreno rectangular mide 18 m de largo y 9 m de ancho. ¿Cuánto mide todo el borde?
 - Martina tenía $12.000 y gastó $4.750.
@@ -115,6 +121,7 @@ Quedaron 307 alfajores.
 Completar procedimiento y respuesta en tres problemas.
 
 **Pautas de revisión**
+
 - ¿mostré la cuenta?
 - ¿respondí con palabras?
 - ¿agregué la unidad o el objeto?
@@ -125,6 +132,7 @@ Completar procedimiento y respuesta en tres problemas.
 En una reserva natural se registraron 248 aves en la zona norte y 197 en la zona sur. Si se organizan los datos en grupos de 5 especies por afiche, ¿cuántos afiches completos se pueden armar con el total?
 
 **Completar**
+
 - datos
 - pregunta
 - operaciones que conviene hacer

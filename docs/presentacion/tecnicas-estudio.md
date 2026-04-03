@@ -17,6 +17,7 @@ Un buen apunte me ayuda a: ________
 
 ## Página 12. Qué anoto y cómo lo ordeno
 **Modelo visual**
+
 - fecha
 - título
 - subtítulo
@@ -37,6 +38,7 @@ Ordenar un apunte desarmado ubicando frases en:
 Escuchá o leé un texto breve y anotá solo 5 ideas importantes.
 
 **Después**
+
 - comparar con un compañero
 - agregar una idea que faltó
 - tachar una que era poco importante
@@ -56,6 +58,7 @@ Completar:
 
 ## Página 15. Organizo información de distintas maneras
 **Caja de herramientas**
+
 - cuadro comparativo para ver diferencias y semejanzas
 - línea de tiempo para ordenar hechos
 - mapa conceptual simple para relacionar ideas
@@ -68,6 +71,7 @@ Elegir el organizador más adecuado para:
 
 ## Página 16. Mi carpeta clara y útil
 **Lista concreta**
+
 - pongo fecha
 - escribo título
 - separo temas
@@ -81,6 +85,7 @@ Comparar dos descripciones de carpeta y decidir cuál ayuda más a estudiar y po
 
 ## Página 17. Uso agenda y organizo entregas
 **Protocolo**
+
 1. anoto la tarea
 2. miro para cuándo es
 3. divido en pasos
@@ -93,6 +98,7 @@ Ejemplo: Preparar una exposición sobre energía.
 
 ## Página 18. Antes de una evaluación
 **Rutina**
+
 - releo apuntes
 - reviso ejemplos
 - practico una o dos actividades
@@ -105,6 +111,7 @@ Separar acciones que ayudan de acciones que complican.
 
 ## Página 19. Durante la evaluación
 **Estrategias**
+
 - leo todo primero
 - empiezo por lo que entiendo mejor
 - si una consigna es larga, la desarmo
@@ -120,6 +127,7 @@ Mini simulacro con 4 partes:
 
 ## Página 20. Me reviso y veo cuánto avancé
 **Autoevaluación**
+
 - Puedo tomar apuntes sin copiar todo.
 - Puedo resumir una explicación breve.
 - Puedo ordenar mejor mi carpeta.

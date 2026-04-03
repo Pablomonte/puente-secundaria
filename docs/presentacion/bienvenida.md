@@ -9,6 +9,7 @@
 
 ## Página 2. Cómo usar este anexo
 **Texto para estudiantes**
+
 - No es una prueba.
 - Es un espacio para practicar.
 - Algunas actividades se hacen con ayuda.
@@ -30,6 +31,7 @@ Escribí dos cosas que te entusiasman y dos que te generan dudas sobre pasar a s
 
 ## Página 4. Lo que ya sabés hacer
 **Lista para marcar**
+
 - Puedo escuchar una explicación y hacer preguntas.
 - Puedo trabajar con otros.
 - Puedo leer un texto y buscar información.
@@ -43,6 +45,7 @@ Una fortaleza mía para empezar secundaria es: ________
 
 ## Página 5. Cuando no entiendo, ¿qué hago?
 **Mini protocolo**
+
 1. Vuelvo a leer.
 2. Marco la palabra que no entiendo.
 3. Busco qué me pide.
@@ -56,6 +59,7 @@ Transformar preguntas vagas en preguntas útiles.
 
 ## Página 6. Leer consignas sin perderme
 **Verbos frecuentes**
+
 - identificar
 - describir
 - explicar
@@ -77,6 +81,7 @@ Unir cada verbo con su acción.
 Leé el texto sobre la atmósfera y explicá dos diferencias entre tiempo atmosférico y clima. Luego escribí un ejemplo de cada uno.
 
 **Desarme guiado**
+
 - acción 1: leer
 - acción 2: explicar dos diferencias
 - acción 3: dar un ejemplo de cada uno
@@ -88,6 +93,7 @@ Resolver tres consignas más con el mismo formato.
 
 ## Página 8. Antes de responder, pienso
 **Rutina**
+
 - ¿Qué tema aparece?
 - ¿Cuántas cosas me piden?
 - ¿Tengo que explicar, comparar o resolver?
@@ -113,6 +119,7 @@ Mejorar 4 respuestas breves o vagas.
 
 ## Página 10. Cierro y me reviso
 **Autoevaluación**
+
 - Puedo reconocer qué me pide una consigna.
 - Puedo buscar el verbo principal.
 - Puedo dar una respuesta más completa.
