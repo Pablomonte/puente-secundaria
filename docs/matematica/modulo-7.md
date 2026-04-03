@@ -85,7 +85,7 @@ El área de un triángulo rectángulo puede pensarse como la mitad de un rectán
 **Actividad**
 Resolvé:
 - un triángulo rectángulo de base 8 cm y altura 4 cm
-- una figura compuesta por dos rectángulos
+- una figura compuesta por dos rectángulos: uno de 6 cm por 4 cm y otro de 2 cm por 3 cm
 
 **Consigna**
 Dibujá cómo desarmaste la figura antes de calcular.

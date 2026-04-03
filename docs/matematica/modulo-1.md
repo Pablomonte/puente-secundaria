@@ -9,7 +9,7 @@ Que el estudiante no se apure a hacer cuentas sin haber entendido antes qué le 
 **Texto**  
 En Matemática no alcanza con saber hacer cuentas. También hay que entender qué pide la consigna, qué datos sirven, qué operación conviene y cómo mostrar la respuesta.
 
-**Actividad inicial**
+**Actividad**
 Problema: En una biblioteca hay 248 libros de cuentos y 136 de ciencias. ¿Cuántos libros hay en total?
 
 - Respuesta A: 248 + 136 = 384. Hay 384 libros en total.
@@ -38,11 +38,13 @@ Cuando leo un problema, primero tengo que descubrir: ________
 **Actividad**
 Unir cada verbo con lo que pide hacer.
 - calcular -> hallar un resultado
+- resolver -> encontrar una solución mostrando cómo se hizo
 - comparar -> mirar diferencias o semejanzas
 - estimar -> aproximar sin calcular exacto
 - justificar -> explicar por qué
 - completar -> agregar lo que falta
 - ordenar -> poner en secuencia o de menor a mayor
+- explicar -> decir con claridad cómo pensaste o por qué ocurre algo
 
 **Práctica**  
 Leé y escribí qué te pide hacer cada consigna.
@@ -59,8 +61,12 @@ Leé y escribí qué te pide hacer cada consigna.
 3. tacho lo que no sirve
 4. pienso qué operación puede ayudar
 
-**Actividad guiada**  
-En una feria escolar se vendieron 125 empanadas a la mañana y 148 a la tarde. Cada bandeja tiene 7 empanadas. ¿Cuántas bandejas completas se necesitaron en total?
+**Actividad**  
+Leé este problema:
+
+En una feria escolar se vendieron 125 empanadas a la mañana y 148 a la tarde.  
+Cada bandeja tiene 7 empanadas.  
+¿Cuántas bandejas completas se necesitaron en total?
 
 **Completar**
 
@@ -70,7 +76,10 @@ En una feria escolar se vendieron 125 empanadas a la mañana y 148 a la tarde. C
 - operaciones posibles: ________
 
 **Actividad 2**  
-En un club hay 84 pelotas, 12 redes nuevas y 6 profesoras. Si las pelotas se guardan en cajas de 8, ¿cuántas cajas completas se llenan?
+Leé este problema:
+
+En un club hay 84 pelotas, 12 redes nuevas y 6 profesoras.  
+Si las pelotas se guardan en cajas de 8, ¿cuántas cajas completas se llenan?
 
 **Consigna**
 
@@ -118,7 +127,13 @@ Respuesta completa:
 Quedaron 307 alfajores.
 
 **Actividad**  
-Completar procedimiento y respuesta en tres problemas.
+Completá procedimiento y respuesta en estos tres problemas.
+
+1. Llegaron 7 cajas con 36 lápices en cada una. Después se repartieron 84 lápices. ¿Cuántos quedaron?
+
+2. En la cooperadora se compraron 15 paquetes con 20 vasos cada uno. En un acto se usaron 178. ¿Cuántos vasos quedaron?
+
+3. Una biblioteca recibió 9 cajas con 24 libros cada una. Luego prestó 57 libros. ¿Cuántos libros quedaron en la biblioteca?
 
 **Pautas de revisión**
 
@@ -129,7 +144,10 @@ Completar procedimiento y respuesta en tres problemas.
 
 ## Página 26. Mini práctica integradora
 **Sección 1**  
-En una reserva natural se registraron 248 aves en la zona norte y 197 en la zona sur. Si se organizan los datos en grupos de 5 especies por afiche, ¿cuántos afiches completos se pueden armar con el total?
+Leé este problema:
+
+En una reserva natural se registraron 248 aves en la zona norte y 197 en la zona sur.  
+Si se organizan los datos en grupos de 5 especies por afiche, ¿cuántos afiches completos se pueden armar con el total?
 
 **Completar**
 

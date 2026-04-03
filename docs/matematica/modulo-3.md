@@ -9,7 +9,7 @@ Reconocer relaciones entre números para organizar grupos, anticipar resultados 
 **Texto**  
 A veces un número entra justo en otro, y otras veces no. Entender múltiplos y divisores ayuda a organizar, repartir y agrupar.
 
-**Actividad inicial**  
+**Actividad**  
 Completá oralmente o por escrito:
 - 2, 4, 6, 8, 10 son múltiplos de ________
 - 3, 6, 9, 12, 15 son múltiplos de ________
@@ -49,7 +49,7 @@ En un juego se avanza de 4 en 4. ¿Se puede llegar justo al 28? ¿Y al 30? Expli
 **Texto**  
 Un número es divisor de otro si lo divide exacto, sin que sobre nada.
 
-**Actividad guiada**  
+**Actividad**  
 Buscá todos los divisores de:
 - 12
 - 18

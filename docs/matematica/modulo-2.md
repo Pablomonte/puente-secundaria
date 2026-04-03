@@ -65,7 +65,10 @@ Decidir si cada situación se resuelve con multiplicación o división.
 - 15 paquetes con 6 galletitas cada uno
 
 **Práctica 2**  
-Resolver y responder con palabras.
+Resolvé y respondé con palabras.
+
+- En una escuela llegaron 9 cajas con 18 lápices cada una. ¿Cuántos lápices llegaron en total?
+- En el comedor hay 144 vasos y se guardan en bandejas de 12. ¿Cuántas bandejas completas se necesitan?
 
 **Cierre**  
 En división, siempre tengo que pensar qué representa el resultado.
@@ -79,10 +82,13 @@ Procedimiento:
 300 - 186 = 114
 
 **Actividad**  
-Resolver tres problemas de dos pasos.
-- compra y vuelto
-- cantidad total y reparto
-- producción por día y total semanal
+Resolver estos tres problemas de dos pasos.
+
+1. En una librería, Sofía compró 3 cuadernos de $1.250 cada uno y 2 lápices de $400 cada uno. Si pagó con $5.000, ¿cuánto vuelto recibió?
+
+2. En una campaña solidaria se juntaron 16 cajas con 24 alimentos en cada una. Luego se armaron bolsones de 8 productos. ¿Cuántos bolsones completos pudieron prepararse?
+
+3. Una huerta escolar produce 18 lechugas por semana. Si mantiene esa producción durante 6 semanas y luego reparte todas las lechugas en cajones de 9, ¿cuántos cajones completos puede armar?
 
 **Pauta**  
 Marco primero qué averiguo en el paso 1 y qué averiguo en el paso 2.
@@ -92,17 +98,34 @@ Marco primero qué averiguo en el paso 1 y qué averiguo en el paso 2.
 En Matemática muchas veces los datos no aparecen en un solo párrafo.
 
 **Actividad 1**  
-Leer una tabla simple de precios o cantidades y responder:
-- total gastado
-- diferencia entre dos productos
-- cuántos grupos completos se pueden armar
+Leé esta tabla y respondé:
 
-**Actividad 2**  
-Mirar un gráfico de barras sencillo y escribir:
+| Producto | Precio por unidad |
+|---|---|
+| Cuaderno | $1.800 |
+| Lápiz | $450 |
+| Regla | $1.200 |
+| Carpeta | $2.600 |
+
+- Si una estudiante compra 2 cuadernos y 3 lápices, ¿cuánto gasta en total?
+- ¿Cuánto más cuesta una carpeta que una regla?
+- Con 12 lápices, ¿cuántos paquetes de 3 lápices iguales se pueden armar?
+
+**Actividad 2**
+Observá este gráfico de barras.
+
+Cantidad de libros leídos por curso en un mes:
+
+- 6°A: 18
+- 6°B: 24
+- 6°C: 15
+- 6°D: 21
+
+Respondé:
 - el valor mayor
 - el valor menor
-- la diferencia
-- el total
+- la diferencia entre el valor mayor y el menor
+- el total de libros leídos entre los cuatro cursos
 
 **Cierre**  
 Leer bien los datos también es hacer Matemática.

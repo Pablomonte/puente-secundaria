@@ -10,7 +10,7 @@ Leer datos, organizarlos y sacar conclusiones con más precisión, como suele pe
 Una tabla o un gráfico no son dibujos decorativos: muestran información que puede compararse, interpretarse y discutirse.
 
 **Actividad**
-Conversá:
+Respondé oralmente o por escrito:
 - ¿Dónde ves tablas o gráficos en la vida diaria?
 - ¿Para qué sirven?
 
@@ -26,7 +26,15 @@ Antes de responder, conviene mirar:
 - valores mayores y menores
 
 **Actividad**
-Leé una tabla de asistencia o de precios y respondé:
+Leé esta tabla y respondé:
+
+| Curso | Libros leídos en marzo |
+|---|---|
+| 6°A | 18 |
+| 6°B | 24 |
+| 6°C | 21 |
+| 6°D | 15 |
+
 - ¿qué valor es el mayor?
 - ¿qué valor es el menor?
 - ¿cuál es la diferencia?
@@ -37,7 +45,16 @@ Leé una tabla de asistencia o de precios y respondé:
 Los gráficos de barras ayudan a comparar cantidades.
 
 **Actividad**
-A partir de un gráfico de barras, respondé:
+Observá estos datos, pensados para un gráfico de barras:
+
+```
+fútbol    | ████████████ 12
+vóley     | ████████ 8
+natación  | █████ 5
+ciclismo  | ███████ 7
+```
+
+Respondé:
 - qué categoría tiene más
 - cuál tiene menos
 - cuánta diferencia hay entre dos categorías
@@ -51,7 +68,14 @@ Inventá una pregunta que pueda responderse con ese gráfico.
 Los gráficos circulares muestran cómo se reparte un total.
 
 **Actividad**
-Observá un gráfico circular sencillo y respondé:
+Observá este reparto del total, equivalente a un gráfico circular:
+
+- lectura: 40% del total
+- juegos: 25% del total
+- deporte: 20% del total
+- música: 15% del total
+
+Respondé:
 - cuál es la parte mayor
 - cuál es la parte menor
 - qué categorías parecen equivalentes
@@ -76,8 +100,10 @@ Hacé una pequeña encuesta en el curso sobre:
 3. representá con un gráfico de barras
 
 ## Página 71. Cierre integrador de Matemática
-**Sección 1. Consigna matemática**
-Leé un problema, marcá datos, elegí operación y resolvé.
+**Sección 1. Problema**
+Leé el problema, marcá datos, elegí operación y resolvé.
+
+En una campaña solidaria se reunieron 15 cajas con 18 útiles escolares en cada una. Luego se armaron paquetes de 9 útiles para repartir. ¿Cuántos paquetes completos se pudieron preparar?
 
 **Sección 2. Cálculo**
 
@@ -88,11 +114,21 @@ Leé un problema, marcá datos, elegí operación y resolvé.
 
 **Sección 3. Geometría y medida**
 
-- perímetro de un rectángulo
-- área de un cuadrado
+- perímetro de un rectángulo de 8 cm por 5 cm
+- área de un cuadrado de 6 cm de lado
 
 **Sección 4. Datos**
-Interpretá una tabla o gráfico breve.
+Usá esta tabla y respondé:
+
+| Día | Cantidad de botellas recolectadas |
+|---|---|
+| Lunes | 12 |
+| Martes | 18 |
+| Miércoles | 15 |
+
+- ¿Qué día se recolectaron más botellas?
+- ¿Cuántas se recolectaron en total?
+- ¿Cuál es la diferencia entre el valor mayor y el menor?
 
 ## Página 72. Me preparo para la Matemática de secundaria
 **Autoevaluación final**

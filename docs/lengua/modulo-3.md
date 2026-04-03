@@ -9,8 +9,13 @@ Aprender a estudiar a partir de textos y explicaciones, registrar ideas importan
 **Texto**  
 En secundaria muchas veces hay que escuchar una explicación, leer un texto y quedarse con las ideas más importantes. No se trata de copiar todo, sino de registrar lo que ayuda a entender y estudiar.
 
+**Texto de trabajo: Los árboles en la ciudad**
+Los árboles urbanos cumplen varias funciones importantes. Dan sombra, ayudan a bajar la temperatura del aire y retienen parte del agua de lluvia con sus raíces. Además, ofrecen refugio a aves e insectos y mejoran la calidad del aire.
+
+Por eso, plantar y cuidar árboles en plazas, veredas y patios escolares no solo embellece el espacio. También mejora las condiciones ambientales del lugar y favorece la vida de distintas especies.
+
 **Actividad**
-Después de escuchar una explicación breve o leer un texto corto, completá:
+Después de leer el texto, completá:
 - tema: ________
 - idea principal: ________
 - dos ideas importantes: ________ / ________
@@ -30,8 +35,8 @@ Tomar notas no es escribir palabra por palabra. Es registrar ideas, datos y ejem
 - separar ideas con guiones o flechas
 - dejar espacio para agregar algo después
 
-**Actividad guiada**
-Escuchá una explicación o leé un párrafo y escribí 5 notas breves.
+**Actividad**
+Volvé a leer el texto sobre los árboles en la ciudad y escribí 5 notas breves.
 
 **Práctica**
 Compará tus notas con las de un compañero y respondé:
@@ -51,7 +56,17 @@ Las notas ayudan a recordar. El resumen ayuda a reorganizar la información y de
 4. escribo un texto breve y ordenado
 
 **Actividad**
-Con unas notas ya dadas, escribí un resumen de 4 o 5 oraciones.
+Con estas notas, escribí un resumen de 4 o 5 oraciones.
+
+**Notas de ejemplo**
+
+- tema: árboles en la ciudad
+- dan sombra
+- bajan la temperatura
+- retienen agua de lluvia
+- son refugio de aves e insectos
+- mejoran el aire
+- cuidarlos mejora el ambiente urbano
 
 **Consigna de revisión**
 Revisá si tu resumen:
@@ -70,7 +85,7 @@ Exponer no es leer rápido lo que escribí. Es comunicar un tema para que otros 
 - cierre final
 
 **Actividad**
-Elegí un tema trabajado en clase y completá este esquema:
+Usá el tema “Los árboles en la ciudad” y completá este esquema:
 - Tema:
 - ¿Cómo lo voy a presentar?
 - Dos ideas importantes:
@@ -93,9 +108,9 @@ En una exposición oral también importa cómo hablamos: el tono, el orden, las 
 - apoyarse en un afiche, cuadro o esquema si hace falta
 
 **Actividad**
-Prepará una exposición breve de 1 minuto sobre un tema trabajado.
+Prepará una exposición breve de 1 minuto sobre los árboles en la ciudad.
 
-**Práctica de observación**
+**Observación entre pares**
 Mientras escucha a un compañero, cada estudiante puede marcar:
 - si se entendió el tema
 - si habló claro
@@ -104,7 +119,7 @@ Mientras escucha a un compañero, cada estudiante puede marcar:
 
 ## Página 92. Mini práctica integradora
 **Sección 1**
-Leé un texto breve o escuchá una explicación y escribí:
+Volvé al texto sobre los árboles en la ciudad y escribí:
 - tres notas útiles
 - una idea principal
 

@@ -55,4 +55,13 @@ nav:
     - "Modulo 3: Resumir y exponer": lengua/modulo-3.md
     - "Modulo 4: Vocabulario academico": lengua/modulo-4.md
   - Ciencias:
+    - ciencias/index.md
     - "Modulo 1: Leer, registrar y concluir": ciencias/modulo-1.md
+    - "Modulo 2: Graficos y cuadros": ciencias/modulo-2.md
+    - "Modulo 3: Hipotesis y variables": ciencias/modulo-3.md
+    - "Modulo 4: Procedimientos y errores": ciencias/modulo-4.md
+  - Simulacros:
+    - simulacros/index.md
+    - "Modulo 1: Tiempos y consignas": simulacros/modulo-1.md
+    - "Modulo 2: Integracion final": simulacros/modulo-2.md
+  - Cierre: cierre.md

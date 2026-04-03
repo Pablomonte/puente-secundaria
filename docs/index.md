@@ -8,7 +8,9 @@ Este sitio te ayuda a organizarte, entender consignas, responder con claridad, e
 
 - [Matematica](matematica/index.md) — 8 modulos: desde entender consignas hasta tablas y graficos
 - [Lengua](lengua/index.md) — 4 modulos: lectura, escritura, resumen y vocabulario
-- [Ciencias](ciencias/modulo-1.md) — Leer, registrar y concluir
+- [Ciencias](ciencias/index.md) — 4 modulos: observar, graficar, formular hipotesis y comunicar
+- [Simulacros](simulacros/index.md) — 2 modulos: practica de examen integradora
+- [Cierre y autoevaluacion](cierre.md) — reflexion final
 
 ## Como usar este material
 

@@ -9,8 +9,13 @@ Fortalecer la lectura comprensiva y la escritura de respuestas claras, completas
 **Texto**  
 En secundaria se leen textos más largos y con más información. No alcanza con leer rápido: hay que entender de qué trata el texto, qué dice cada parte y qué información sirve para responder.
 
+**Texto de trabajo 1: Los polinizadores en la ciudad**
+Las abejas, las mariposas y algunos pájaros cumplen una tarea fundamental: trasladan polen de una flor a otra. Gracias a ese proceso, muchas plantas pueden formar frutos y semillas. Aunque a veces no se los note, también viven en plazas, patios y balcones de las ciudades.
+
+Los polinizadores necesitan alimento y refugio. Por eso es útil que en la escuela o en casa haya plantas con flores variadas y que se evite el uso innecesario de productos químicos. Un cantero con lavanda, romero y margaritas, por ejemplo, puede atraer insectos que ayudan al equilibrio del ambiente.
+
 **Actividad**
-Después de leer un texto breve, completá:
+Después de leer el texto, completá:
 - tema principal: ________
 - dos ideas importantes: ________ / ________
 - una palabra que no conocía o quiero revisar: ________
@@ -22,8 +27,8 @@ Leer bien me ayuda a responder mejor.
 **Texto**  
 La idea principal dice de qué trata la mayor parte del texto. Las ideas secundarias la explican, la amplían o dan ejemplos.
 
-**Actividad guiada**
-Leé un texto breve informativo y marcá:
+**Actividad**
+Volvé a leer el texto sobre los polinizadores y marcá:
 - con color 1, la idea principal
 - con color 2, dos ideas secundarias
 - con un círculo, un ejemplo
@@ -47,7 +52,16 @@ Respuesta más ajustada:
 La población disminuyó porque cambió el ambiente y se alteró su hábitat.
 
 **Actividad**
-Mejorá tres respuestas demasiado largas o poco claras.
+Mejorá estas respuestas para que queden más claras y precisas.
+
+- Pregunta: ¿Por qué son importantes los polinizadores?  
+  Respuesta poco precisa: Son importantes para muchas cosas de las plantas.
+
+- Pregunta: ¿Dónde pueden vivir también los polinizadores?  
+  Respuesta que copia de más: Aunque a veces no se los note, también viven en plazas, patios y balcones de las ciudades.
+
+- Pregunta: ¿Qué plantas aparecen como ejemplo en el texto?  
+  Respuesta poco clara: Unas flores.
 
 ## Página 76. Respuestas completas y bien escritas
 **Texto**  
@@ -65,11 +79,18 @@ Transformá estas respuestas breves en respuestas completas:
 - Con energía solar.
 
 **Práctica**
-Respondé dos preguntas sobre un texto breve usando respuesta completa.
+Respondé estas preguntas sobre el texto de los polinizadores usando respuesta completa.
+- ¿Qué necesitan los polinizadores para vivir?
+- ¿Qué podría hacer una escuela para ayudarlos?
 
 ## Página 77. Resumir un texto breve
 **Texto**  
 Resumir es seleccionar lo más importante y decirlo con menos palabras, sin cambiar el sentido.
+
+**Texto de trabajo 2: El compost escolar**
+En muchas escuelas, los restos de frutas, verduras y hojas secas pueden transformarse en compost. El compost es un abono natural que mejora la tierra y ayuda al crecimiento de las plantas. Para obtenerlo, se mezclan restos orgánicos con materiales secos y se los deja descomponer con aire y humedad controlados.
+
+Este proceso reduce la cantidad de residuos que se tiran y permite aprovechar materiales que antes se consideraban basura. Además, observar cómo cambian los restos con el tiempo ayuda a comprender que en la naturaleza los materiales se transforman.
 
 **Pasos**
 
@@ -79,7 +100,7 @@ Resumir es seleccionar lo más importante y decirlo con menos palabras, sin camb
 4. escribo un párrafo breve sin copiar todo
 
 **Actividad**
-Leé un texto breve de divulgación y completá:
+Leé el texto sobre el compost escolar y completá:
 - tema
 - ideas importantes
 - resumen de 3 oraciones
@@ -92,13 +113,14 @@ Revisá si tu resumen:
 
 ## Página 78. Mini práctica integradora
 **Sección 1**
-Leé un texto breve y respondé:
+Volvé a leer el texto sobre el compost escolar y respondé:
 - ¿De qué trata principalmente?
 - ¿Cuál es una idea importante?
-- ¿Qué ejemplo aparece?
+- ¿Qué beneficio del compost aparece en el texto?
 
 **Sección 2**
-Escribí una respuesta completa a una consigna.
+Escribí una respuesta completa a esta consigna:
+¿Por qué el compost ayuda a reducir residuos?
 
 **Sección 3**
 Hacé un resumen de 2 o 3 oraciones.

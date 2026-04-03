@@ -71,16 +71,20 @@ Transformar preguntas vagas en preguntas útiles.
 
 **Actividad**
 Unir cada verbo con su acción.
+- identificar -> reconocer o señalar algo específico
+- describir -> decir cómo es algo
+- explicar -> desarrollar una idea para que se entienda
 - comparar -> decir en qué se parecen y en qué se diferencian
 - justificar -> explicar por qué
+- argumentar -> dar razones para sostener una opinión o posición
 - localizar -> encontrar y ubicar
 - resolver -> hallar una solución mostrando cómo
 
 ## Página 7. Desarmo una consigna
-**Consigna modelo**  
+**Consigna**  
 Leé el texto sobre la atmósfera y explicá dos diferencias entre tiempo atmosférico y clima. Luego escribí un ejemplo de cada uno.
 
-**Desarme guiado**
+**Desarme**
 
 - acción 1: leer
 - acción 2: explicar dos diferencias
@@ -89,7 +93,10 @@ Leé el texto sobre la atmósfera y explicá dos diferencias entre tiempo atmosf
 - cantidad esperada: dos diferencias + dos ejemplos
 
 **Práctica**  
-Resolver tres consignas más con el mismo formato.
+Desarmá estas tres consignas con el mismo formato:
+- Leé el texto y describí cómo es el personaje principal.
+- Resolvé el problema y explicá qué operación usaste.
+- Compará el tiempo atmosférico y el clima usando dos ejemplos.
 
 ## Página 8. Antes de responder, pienso
 **Rutina**
@@ -101,7 +108,11 @@ Resolver tres consignas más con el mismo formato.
 - ¿Tengo que mostrar la cuenta o solo el resultado?
 
 **Práctica**  
-Cuatro consignas cortas de Lengua, Matemática, Sociales y Naturales.
+Leé estas cuatro consignas cortas y respondé oralmente:
+- Lengua: Explicá por qué un título ayuda a entender un texto.
+- Matemática: Calculá el perímetro de un cuadrado de 4 cm de lado.
+- Sociales: Compará una zona rural con una urbana.
+- Naturales: Describí un cambio que ocurre cuando una semilla germina.
 
 ## Página 9. Respuestas que se entienden
 **Ejemplo**
@@ -115,7 +126,15 @@ Respuesta adecuada:
 La atmósfera es importante para los seres vivos porque contiene los gases necesarios para la vida y además ayuda a regular condiciones del ambiente.
 
 **Actividad**  
-Mejorar 4 respuestas breves o vagas.
+Mejorá estas respuestas breves o vagas.
+- Pregunta: ¿Por qué conviene cuidar el agua?  
+  Respuesta débil: Porque sí.
+- Pregunta: ¿Qué muestra la tabla?  
+  Respuesta débil: Muestra cosas.
+- Pregunta: ¿Dónde ocurre el cambio?  
+  Respuesta débil: En un lugar.
+- Pregunta: ¿Cómo resolviste el problema?  
+  Respuesta débil: Lo hice con una cuenta.
 
 ## Página 10. Cierro y me reviso
 **Autoevaluación**
@@ -127,4 +146,6 @@ Mejorar 4 respuestas breves o vagas.
 - La estrategia que más me sirvió fue: ________
 
 **Desafío final**  
-Dar una respuesta completa a una consigna integradora corta.
+Respondé esta consigna con una oración completa:
+
+Explicá por qué leer con atención una consigna ayuda a resolver mejor una actividad.

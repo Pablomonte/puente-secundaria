@@ -9,8 +9,13 @@ Aprender a trabajar con textos, observaciones y pequeños registros científicos
 **Texto**  
 En secundaria, en Ciencias muchas veces hay que leer un texto, observar una imagen, mirar un esquema o analizar un experimento. Después hay que registrar información y usarla para explicar algo.
 
+**Texto de trabajo: Germinación de porotos**
+En una clase, un grupo colocó tres porotos sobre algodón húmedo dentro de un frasco transparente. Durante varios días observaron qué cambios se producían. Al principio, las semillas estaban secas y cerradas. Después de dos días, se hincharon. Más tarde apareció una pequeña raíz blanca y, unos días después, comenzó a verse un tallo verde.
+
+La experiencia permitió observar que las semillas cambian con el tiempo cuando tienen humedad y condiciones adecuadas. Registrar esos cambios ayuda a comprender mejor cómo comienza el crecimiento de una planta.
+
 **Actividad**
-Después de leer un texto breve o mirar una imagen científica, completá:
+Después de leer el texto, completá:
 - tema: ________
 - qué observé: ________
 - qué entendí mejor: ________
@@ -31,8 +36,8 @@ Registrar no es copiar todo. Es anotar datos, cambios, relaciones o resultados q
 - una comparación
 - un resultado
 
-**Actividad guiada**
-Observá una situación simple, como una planta, un experimento con agua o una imagen de un ecosistema, y completá:
+**Actividad**
+Volvé a la experiencia de germinación y completá:
 - qué veo
 - qué cambia
 - qué permanece igual
@@ -46,13 +51,13 @@ Escribí un registro breve de 3 o 4 oraciones.
 Las tablas ayudan a ordenar la información para verla con más claridad.
 
 **Actividad**
-Completá una tabla a partir de una observación o experiencia.
+Completá esta tabla a partir de la experiencia de germinación.
 
 | Día o momento | Qué observé | Dato importante |
 |---|---|---|
-| | | |
-| | | |
-| | | |
+| Inicio | | |
+| Después de dos días | | |
+| Días después | | |
 
 **Práctica**
 Respondé:
@@ -77,7 +82,8 @@ Mejorá estas expresiones:
 - estaba mejor
 
 **Práctica**
-Explicá con precisión una observación hecha en clase.
+Explicá con precisión esta observación de la germinación:
+“Al cuarto día salió algo blanco del poroto.”
 
 ## Página 103. Escribo una conclusión breve
 **Texto**  
@@ -91,7 +97,7 @@ La conclusión no repite todo. Dice qué aprendí, qué relación encontré o qu
 - en conclusión...
 
 **Actividad**
-Leé una observación o mirá una tabla breve y escribí una conclusión de 2 o 3 oraciones.
+Usá la tabla de la germinación y escribí una conclusión de 2 o 3 oraciones.
 
 **Consigna de revisión**
 Revisá si tu conclusión:
@@ -101,7 +107,7 @@ Revisá si tu conclusión:
 
 ## Página 104. Mini práctica integradora
 **Sección 1**
-Leé un texto breve o mirá una imagen científica y escribí:
+Volvé al texto sobre la germinación y escribí:
 - el tema
 - dos observaciones o datos
 
@@ -112,7 +118,7 @@ Organizá esa información en una tabla o lista breve.
 Escribí una explicación corta usando vocabulario preciso.
 
 **Sección 4**
-Redactá una conclusión breve.
+Redactá una conclusión breve sobre lo que necesita una semilla para comenzar a crecer.
 
 **Sección 5. Autoevaluación**
 

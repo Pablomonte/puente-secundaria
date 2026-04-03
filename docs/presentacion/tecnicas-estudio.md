@@ -7,10 +7,15 @@
 Tomar apuntes no es copiar todo. Es guardar las ideas importantes para poder entender, estudiar y recordar.
 
 **Actividad**
-Leer tres frases y marcar cuáles valdría la pena anotar en una clase.
-- una idea principal
-- un ejemplo clave
-- una broma o comentario lateral
+Leé estas tres frases y marcá cuáles valdría la pena anotar en una clase.
+- La energía eléctrica puede transformarse en luz, calor o movimiento.
+- Un ejemplo de eso es una pava eléctrica que calienta agua.
+- El profe dijo que su pava hace un ruido raro cuando está por hervir.
+
+Respondé:
+- ¿Cuál expresa una idea principal?
+- ¿Cuál aporta un ejemplo útil?
+- ¿Cuál no sería necesario anotar para estudiar?
 
 **Cierre**  
 Un buen apunte me ayuda a: ________
@@ -27,15 +32,26 @@ Un buen apunte me ayuda a: ________
 - duda para preguntar
 
 **Actividad**  
-Ordenar un apunte desarmado ubicando frases en:
-- título
-- idea principal
-- ejemplo
-- pregunta
+Ordená este apunte desarmado ubicando cada frase donde corresponde:
+- La energía solar puede aprovecharse para producir calor o electricidad.
+- ¿Los paneles solares funcionan igual en días nublados?
+- Un calefón solar usa la energía del Sol para calentar agua.
+- Energía solar
+
+Completá:
+- título: ________
+- idea principal: ________
+- ejemplo: ________
+- pregunta: ________
 
 ## Página 13. Practico tomar apuntes
 **Consigna**  
-Escuchá o leé un texto breve y anotá solo 5 ideas importantes.
+Leé este texto breve y anotá solo 5 ideas importantes.
+
+**Texto de trabajo: Las bibliotecas escolares**
+La biblioteca escolar no sirve solo para prestar libros. También es un espacio para investigar, leer por placer, consultar materiales de distintas áreas y aprender a buscar información de manera ordenada. En muchas escuelas, además de libros en papel, hay revistas, mapas, diccionarios y materiales digitales.
+
+Cuando una biblioteca está bien organizada, los estudiantes pueden encontrar más rápido lo que necesitan. Por eso suelen clasificarse los materiales por tema, autor o tipo de texto. Aprender a usar una biblioteca ayuda a estudiar con más autonomía.
 
 **Después**
 
@@ -52,9 +68,15 @@ Texto corto -> apunte -> resumen de 3 oraciones
 
 **Actividad**
 Completar:
-- tema
-- 3 ideas importantes
-- resumen final de 2 o 3 oraciones
+- tema del texto sobre la biblioteca: ________
+- 3 ideas importantes:
+  - ________
+  - ________
+  - ________
+- resumen final de 2 o 3 oraciones:
+  - ________
+  - ________
+  - ________
 
 ## Página 15. Organizo información de distintas maneras
 **Caja de herramientas**
@@ -81,7 +103,21 @@ Elegir el organizador más adecuado para:
 - puedo encontrar rápido lo que busco
 
 **Actividad**  
-Comparar dos descripciones de carpeta y decidir cuál ayuda más a estudiar y por qué.
+Leé estas dos descripciones y decidí cuál carpeta ayuda más a estudiar. Explicá por qué.
+
+**Carpeta A**
+
+- Tiene fecha y título en cada hoja.
+- Las materias están separadas.
+- Hay correcciones hechas en color.
+- Las hojas están completas y ordenadas.
+
+**Carpeta B**
+
+- Algunas hojas no tienen fecha.
+- Los temas de distintas materias están mezclados.
+- Hay ejercicios sin corregir.
+- Faltan varias hojas y otras están sueltas.
 
 ## Página 17. Uso agenda y organizo entregas
 **Protocolo**
@@ -93,8 +129,19 @@ Comparar dos descripciones de carpeta y decidir cuál ayuda más a estudiar y po
 5. reviso antes de entregar
 
 **Actividad**  
-Planificar una tarea en 3 días.  
-Ejemplo: Preparar una exposición sobre energía.
+Planificá esta tarea en 3 días.
+
+**Tarea:** preparar una exposición breve sobre energía solar.
+
+Completá:
+- Día 1: ________
+- Día 2: ________
+- Día 3: ________
+
+Materiales que voy a necesitar:
+- ________
+- ________
+- ________
 
 ## Página 18. Antes de una evaluación
 **Rutina**
@@ -107,7 +154,15 @@ Ejemplo: Preparar una exposición sobre energía.
 - preparo materiales
 
 **Actividad**  
-Separar acciones que ayudan de acciones que complican.
+Leé estas acciones y escribí `ayuda` o `complica`.
+
+- estudiar un poco cada día
+- dejar todo para la noche anterior
+- revisar correcciones de la carpeta
+- ir a la evaluación sin útiles
+- preparar una lista de dudas
+- releer una consigna difícil
+- entregar sin revisar
 
 ## Página 19. Durante la evaluación
 **Estrategias**
@@ -120,10 +175,41 @@ Separar acciones que ayudan de acciones que complican.
 
 **Práctica**
 Mini simulacro con 4 partes:
-- una consigna para desarmar
-- una respuesta para completar mejor
-- un ejercicio matemático simple
-- una idea principal para resumir
+
+1. **Desarmá la consigna**
+   Leé este texto y desarmá la consigna:
+
+   “El agua potable es un recurso necesario para la vida. En la escuela y en casa conviene cuidarla, por ejemplo cerrando bien las canillas y usando solo la cantidad necesaria.”
+
+   Consigna:
+   Explicá dos cuidados necesarios para no desperdiciarla y escribí un ejemplo de uso responsable en tu casa.
+
+   Completá:
+   - acción 1: ________
+   - acción 2: ________
+   - acción 3: ________
+
+2. **Mejorá la respuesta**
+   Pregunta: ¿Por qué conviene separar residuos?
+
+   Respuesta débil:
+   Porque sirve.
+
+   Escribí una respuesta más completa: ________
+
+3. **Resolvé**
+   En la biblioteca se acomodaron 96 libros en estantes con 12 libros en cada uno.
+   ¿Cuántos estantes completos se usaron?
+
+   Cuenta: ________
+   Respuesta: ________
+
+4. **Buscá la idea principal**
+   Leé este texto:
+
+   “La sombra de los árboles ayuda a bajar la temperatura del patio y ofrece un lugar más cómodo para descansar en los recreos.”
+
+   Escribí la idea principal con tus palabras: ________
 
 ## Página 20. Me reviso y veo cuánto avancé
 **Autoevaluación**

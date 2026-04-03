@@ -103,17 +103,39 @@ Antes de entregar una respuesta conviene revisar algo más que la ortografía. T
 - ¿Puedo mejorar una oración?
 
 **Actividad**
-Leé dos respuestas de ejemplo y marcá cuál está mejor resuelta. Explicá por qué.
+Leé estas dos respuestas de ejemplo y marcá cuál está mejor resuelta. Explicá por qué.
+
+**Pregunta**
+¿Por qué es importante separar residuos en la escuela?
+
+**Respuesta A**
+Porque es importante.
+
+**Respuesta B**
+Separar residuos en la escuela es importante porque permite reciclar parte de los materiales y mantener más limpio el espacio común.
 
 ## Página 98. Mini práctica integradora
 **Sección 1**
-Leé cuatro consignas y escribí qué pide cada una.
+Leé estas cuatro consignas y escribí qué pide cada una.
+
+- Describí cómo es el patio de tu escuela.
+- Compará la energía solar con la energía eólica.
+- Justificá por qué conviene ahorrar agua.
+- Resumí el texto en tres oraciones.
 
 **Sección 2**
-Mejorá dos respuestas vagas para volverlas más precisas.
+Mejorá estas dos respuestas vagas para volverlas más precisas.
+
+- Pregunta: ¿Qué muestra el gráfico?  
+  Respuesta vaga: Muestra cosas.
+
+- Pregunta: ¿Por qué creció la planta?  
+  Respuesta vaga: Porque estaba mejor.
 
 **Sección 3**
-Escribí una breve justificación y una breve argumentación.
+Escribí:
+- una breve justificación de por qué conviene llevar la carpeta ordenada
+- una breve argumentación para defender la idea de plantar más árboles en la escuela
 
 **Sección 4. Autoevaluación**
 

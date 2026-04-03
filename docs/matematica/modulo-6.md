@@ -22,7 +22,15 @@ En Geometría no alcanza con mirar una figura: también hay que poder describirl
 Escribí qué significa cada palabra con tus propias palabras o dibujá un ejemplo.
 
 **Práctica**
-Mirá un cuadrilátero y respondé:
+Observá esta figura y respondé:
+
+```
+A------B
+|      |
+|      |
+D------C
+```
+
 - ¿Cuántos lados tiene?
 - ¿Cuántos vértices?
 - ¿Tiene diagonales?
@@ -58,7 +66,7 @@ Escribí una semejanza y una diferencia entre:
 **Texto**  
 Construir una figura obliga a pensar qué información hace falta y cómo usar los instrumentos.
 
-**Actividad guiada**
+**Actividad**
 Construí:
 - un rectángulo de 6 cm por 4 cm
 - un cuadrado de 5 cm de lado
@@ -70,7 +78,7 @@ Construí:
 3. medí los lados restantes
 4. uní los puntos
 
-**Reflexión**
+**Revisión**
 
 - ¿Qué instrumento te ayudó a asegurar el ángulo recto?
 - ¿Qué error podría aparecer si no medís bien?
@@ -80,10 +88,27 @@ Construí:
 Las propiedades de una figura ayudan a clasificarla.
 
 **Actividad**
-Observá varias figuras y marcá:
+Leé estas descripciones y marcá qué propiedades tiene cada figura.
+
+**Figura A**
+
+- tiene cuatro lados iguales
+- tiene cuatro ángulos rectos
+
+**Figura B**
+
+- tiene un solo par de lados paralelos
+- no tiene todos los lados iguales
+
+**Figura C**
+
+- tiene lados opuestos paralelos e iguales
+- no tiene ángulos rectos
+
+Para cada figura, indicá:
 - lados paralelos
 - lados iguales
-- diagonales
+- diagonales posibles
 
 **Práctica**
 Escribí qué figura puede ser:
