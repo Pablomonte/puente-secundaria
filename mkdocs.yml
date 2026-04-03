@@ -1,0 +1,58 @@
+site_name: Puente a Secundaria
+site_description: Herramientas para empezar la secundaria con confianza
+site_url: https://Pablomonte.github.io/puente-secundaria/
+
+theme:
+  name: material
+  language: es
+  palette:
+    - scheme: default
+      primary: blue
+      accent: light blue
+      toggle:
+        icon: material/brightness-7
+        name: Modo oscuro
+    - scheme: slate
+      primary: blue
+      accent: light blue
+      toggle:
+        icon: material/brightness-4
+        name: Modo claro
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - tables
+  - attr_list
+
+nav:
+  - Inicio: index.md
+  - Presentacion:
+    - Bienvenida: presentacion/bienvenida.md
+    - Tecnicas de estudio: presentacion/tecnicas-estudio.md
+  - Matematica:
+    - matematica/index.md
+    - "Modulo 1: Entender consignas": matematica/modulo-1.md
+    - "Modulo 2: Calculo y operaciones": matematica/modulo-2.md
+    - "Modulo 3: Divisibilidad y primos": matematica/modulo-3.md
+    - "Modulo 4: Fracciones y decimales": matematica/modulo-4.md
+    - "Modulo 5: Proporcionalidad": matematica/modulo-5.md
+    - "Modulo 6: Geometria": matematica/modulo-6.md
+    - "Modulo 7: Medida y area": matematica/modulo-7.md
+    - "Modulo 8: Tablas y graficos": matematica/modulo-8.md
+  - Lengua:
+    - lengua/index.md
+    - "Modulo 1: Leer y comprender": lengua/modulo-1.md
+    - "Modulo 2: Escritura formal": lengua/modulo-2.md
+    - "Modulo 3: Resumir y exponer": lengua/modulo-3.md
+    - "Modulo 4: Vocabulario academico": lengua/modulo-4.md
+  - Ciencias:
+    - "Modulo 1: Leer, registrar y concluir": ciencias/modulo-1.md
