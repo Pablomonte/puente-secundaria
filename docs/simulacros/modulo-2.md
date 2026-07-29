@@ -58,7 +58,7 @@ Resolvé estas situaciones.
 - anotá el procedimiento si hace falta
 - escribí la respuesta final con claridad
 
-## Página 132. Parte 3: ciencias y análisis de información
+## Página 132. Parte 3: Ciencias Naturales y análisis de información
 **Tabla**
 
 | Planta | Horas de luz por día | Altura después de 7 días |
