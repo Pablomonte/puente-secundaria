@@ -1,4 +1,4 @@
-# Ciencias Puente a Secundaria
+# Ciencias Naturales Puente a Secundaria
 
 ## Módulo 4. Procedimientos, errores y comunicación de resultados
 

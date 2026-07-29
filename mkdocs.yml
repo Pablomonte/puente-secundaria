@@ -1,6 +1,6 @@
 site_name: Puente a Secundaria
 site_description: Herramientas para empezar la secundaria con confianza
-site_url: https://Pablomonte.github.io/puente-secundaria/
+site_url: https://pablomonte.github.io/puente-secundaria/
 
 theme:
   name: material
@@ -19,8 +19,9 @@ theme:
         icon: material/brightness-4
         name: Modo claro
   features:
+    # navigation.expand se quito a proposito: con 39 modulos el sidebar
+    # expandido es inusable en telefono.
     - navigation.sections
-    - navigation.expand
     - navigation.top
     - search.suggest
 
@@ -38,8 +39,9 @@ nav:
   - Presentacion:
     - Bienvenida: presentacion/bienvenida.md
     - Tecnicas de estudio: presentacion/tecnicas-estudio.md
+    - Los examenes de 2025: presentacion/examen-libre.md
   - Matematica:
-    - matematica/index.md
+    - Indice: matematica/index.md
     - "Modulo 1: Entender consignas": matematica/modulo-1.md
     - "Modulo 2: Calculo y operaciones": matematica/modulo-2.md
     - "Modulo 3: Divisibilidad y primos": matematica/modulo-3.md
@@ -48,20 +50,52 @@ nav:
     - "Modulo 6: Geometria": matematica/modulo-6.md
     - "Modulo 7: Medida y area": matematica/modulo-7.md
     - "Modulo 8: Tablas y graficos": matematica/modulo-8.md
+    - "Modulo 9: Numeros grandes": matematica/modulo-9.md
+    - "Modulo 10: Operaciones y porcentajes": matematica/modulo-10.md
+    - "Modulo 11: Medida y desperdicio": matematica/modulo-11.md
+    - "Modulo 12: Angulos y paralelogramos": matematica/modulo-12.md
+    - "Modulo 13: Graficos y proporcionalidad": matematica/modulo-13.md
   - Lengua:
-    - lengua/index.md
+    - Indice: lengua/index.md
     - "Modulo 1: Leer y comprender": lengua/modulo-1.md
     - "Modulo 2: Escritura formal": lengua/modulo-2.md
     - "Modulo 3: Resumir y exponer": lengua/modulo-3.md
     - "Modulo 4: Vocabulario academico": lengua/modulo-4.md
-  - Ciencias:
-    - ciencias/index.md
+    - "Modulo 5: El cuento y el narrador": lengua/modulo-5.md
+    - "Modulo 6: Clases de palabras": lengua/modulo-6.md
+    - "Modulo 7: Silabas y tildacion": lengua/modulo-7.md
+    - "Modulo 8: Sujeto y predicado": lengua/modulo-8.md
+    - "Modulo 9: Leer en voz alta": lengua/modulo-9.md
+  # La carpeta ciencias/ es Ciencias Naturales. Se conserva el nombre para no
+  # romper las URLs ya publicadas; Ciencias Sociales vive en sociales/.
+  - Ciencias Naturales:
+    - Indice: ciencias/index.md
     - "Modulo 1: Leer, registrar y concluir": ciencias/modulo-1.md
     - "Modulo 2: Graficos y cuadros": ciencias/modulo-2.md
     - "Modulo 3: Hipotesis y variables": ciencias/modulo-3.md
     - "Modulo 4: Procedimientos y errores": ciencias/modulo-4.md
+    - "Modulo 5: Las plantas": ciencias/modulo-5.md
+    - "Modulo 6: Flora autoctona": ciencias/modulo-6.md
+    - "Modulo 7: El agua": ciencias/modulo-7.md
+  - Ciencias Sociales:
+    - Indice: sociales/index.md
+    - "Modulo 1: Leer un mapa": sociales/modulo-1.md
+    - "Modulo 2: Provincias y capitales": sociales/modulo-2.md
+    - "Modulo 3: Limites de Argentina": sociales/modulo-3.md
+    - "Modulo 4: 1810 y 1816": sociales/modulo-4.md
+    - "Modulo 5: Escribir sobre un mundo mejor": sociales/modulo-5.md
   - Simulacros:
-    - simulacros/index.md
+    - Indice: simulacros/index.md
     - "Modulo 1: Tiempos y consignas": simulacros/modulo-1.md
     - "Modulo 2: Integracion final": simulacros/modulo-2.md
+    - "Modulo 3: Simulacro de Lengua": simulacros/modulo-3.md
+    - "Modulo 4: Simulacro de Matematica": simulacros/modulo-4.md
+    - "Modulo 5: Simulacro de Ciencias": simulacros/modulo-5.md
   - Cierre: cierre.md
+  - Claves y criterios:
+    - Indice: claves/index.md
+    - Matematica: claves/matematica.md
+    - Lengua: claves/lengua.md
+    - Ciencias Naturales: claves/ciencias-naturales.md
+    - Ciencias Sociales: claves/sociales.md
+    - Simulacros: claves/simulacros.md

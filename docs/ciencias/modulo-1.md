@@ -1,4 +1,4 @@
-# Ciencias Puente a Secundaria
+# Ciencias Naturales Puente a Secundaria
 
 ## Módulo 1. Leer, registrar y concluir
 

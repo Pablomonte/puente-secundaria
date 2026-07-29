@@ -2,15 +2,23 @@ name: Deploy MkDocs
 on:
   push:
     branches: [main]
+  pull_request:
 permissions:
   contents: write
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.x'
-      - run: pip install mkdocs-material
-      - run: mkdocs gh-deploy --force
+      # Pineado a la version usada localmente: un salto mayor cambia el
+      # renderizado de todo el sitio de golpe.
+      - run: pip install 'mkdocs-material==9.7.7'
+      # --strict convierte en error los enlaces internos rotos y las paginas
+      # fuera del nav. Corre tambien en pull_request, para no enterarse
+      # despues de mergear.
+      - run: mkdocs build --strict
+      - if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+        run: mkdocs gh-deploy --force
