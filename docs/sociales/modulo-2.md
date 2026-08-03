@@ -39,6 +39,7 @@ Esta es la lista completa, en orden alfabético, según el Instituto Geográfico
 | Catamarca | San Fernando del Valle de Catamarca |
 | Chaco | Resistencia |
 | Chubut | Rawson |
+| Ciudad Autónoma de Buenos Aires | no tiene capital propia: es ciudad autónoma y es la capital del país |
 | Córdoba | Córdoba |
 | Corrientes | Corrientes |
 | Entre Ríos | Paraná |
